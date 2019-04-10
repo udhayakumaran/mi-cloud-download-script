@@ -15,3 +15,5 @@ A simple script that can be executed directly in browser's "Developer Console".
 6. Paste all the code and press Enter
 7. Click `Ok/Allow` if browser asks for the permission
 7. Wait until all the files are downloaded
+
+Thanks to [@martin0258](https://github.com/martin0258) for the source script.
